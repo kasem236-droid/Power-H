@@ -1,0 +1,6 @@
+{
+  "name": "Power H",
+  "description": "تطبيق إدارة الأعمال وحسابات الخزينة والمبيعات والمشتريات والمخازن مع المزامنة السحابية ودعم وضع عدم الاتصال",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
